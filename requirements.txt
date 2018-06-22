@@ -1,0 +1,5 @@
+elasticbackup
+minio
+notebook
+python-dotenv
+requests
